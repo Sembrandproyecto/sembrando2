@@ -27,7 +27,7 @@ Nuestro proyecto consiste en una pagina web que sirve para encontrar eventos y a
 
 # TABLA
 
-| Fortalezas | Debilidades | Proyectos similares |
+|                      Fortalezas                 |                 Debilidades               |        Proyectos similares     |
 |-------------------------------|---------------------------|---------------------|
 
 |  Le da exposure a artistas emergentes que buscan crecer su carrera  | Como no es una plataforma de streaming, no se puede escuchar la música ahí mismo | https://www.last.fm/es/ Ofrece opciones de artistas que puedes no conocer en una sección llamada artistas y temas al alza |
