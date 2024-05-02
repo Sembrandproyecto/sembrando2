@@ -26,7 +26,16 @@ Nuestro proyecto consiste en una pagina web que sirve para encontrar eventos y a
 3- Ayudar a los artistas emergentes a que su audiencia crezca 
 
 # TABLA
-[
-](https://docs.google.com/document/d/15V1fPr7S2nQyGQwn1Ock310i4t7wNHdsD8Y55bKYV00/edit)
 
+| Fortalezas | Debilidades | Proyectos similares |
+|-------------------------------|---------------------------|---------------------|
+
+|  Le da exposure a artistas emergentes que buscan crecer su carrera  | Como no es una plataforma de streaming, no se puede escuchar la música ahí mismo | https://www.last.fm/es/ Ofrece opciones de artistas que puedes no conocer en una sección llamada artistas y temas al alza |
+|------------|-------------|---------------------|
+
+| Es una página web de muy fácil y rápido acceso  | Es gratuita entonces para los que los desarrolladores no habría ningún tipo de ganancia | https://artists.youtube/ Aqui se pueden generar experiencias para los fans y de esa forma encontrar más eventos en vivo. |
+|------------|-------------|---------------------|
+
+| No solamente sirve para que los usuarios puedan encontrar música nueva y diferente, sino que los mismos músicos pueden acceder de una forma mucho más fácil que a las plataformas de streaming en las playlists editoriales y en la sección de recomendaciones. | Si muchos artistas intentan darse a conocer en nuestra página web, es posible que se pierdan entre la lista y al final no sean encontrados por tanta gente como se espera. | https://www.last.fm/es/ al igual que nuestra pagina web, esta igualmente da recomendaciones aleatorias para encontrar diferentes artistas y canciones |
+|------------|-------------|---------------------|
 
