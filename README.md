@@ -25,7 +25,11 @@ Nuestro proyecto consiste en una pagina web que sirve para encontrar eventos y a
 2- Proporcionar información de diferentes eventos musicales para brindarles exposure 
 3- Ayudar a los artistas emergentes a que su audiencia crezca 
 
-# TABLA
+# Sembrando sitio web 
+
+https://cloud.protopie.io/p/be75073a0b468df50c2e35c4 
+
+# Tabla
 
 |                      Fortalezas                 |                 Debilidades               |        Proyectos similares     |
 |-------------------------------|---------------------------|---------------------|
